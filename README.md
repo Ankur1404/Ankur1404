@@ -62,10 +62,6 @@ I'm a passionate developer currently pursuing my Bachelor's in Computer Science 
 - Built secure APIs with authentication, file storage, and real-time dashboards for project tracking.  
 - Structured backend logic to handle **interlinked operations** across finance, material tracking, and admin modules.  
 
-### **💼 ERP Modules Development**
-*(React.js, Shadcn/ui, SQL)*  
-- Developed and optimized ERP modules (CRM, Inventory, Procurement) with **15+ reusable components**.  
-- Improved frontend performance using **lazy loading and code splitting**, achieving **~40% faster page loads** and reducing bundle size by **25%**.  
 
 ---
 
@@ -76,8 +72,8 @@ I'm a passionate developer currently pursuing my Bachelor's in Computer Science 
 - **🥇 1st Place** – IoT Project Competition 2025  
   *Built an automated water tank system using solenoid valves and ultrasonic sensors.*  
 - **🥇 1st Place** – Mini Project Competition 2024 (BuildGuild)  
-- **🥉 3rd Place** – Database Project Competition 2024  
-  *Designed optimized database architecture for BuildGuild.*  
+- **🥉 3rd Place** – Database Project Competition 2024(BuildGuild)
+ 
 
 - **📜 Certifications:**  
   • Mastering Data Structures & Algorithms using C/C++ – Udemy (Abdul Bari)  
@@ -87,10 +83,10 @@ I'm a passionate developer currently pursuing my Bachelor's in Computer Science 
 
 ## 🌱 Currently Learning & Exploring
 
-- Advanced **System Design & Cloud Architecture**  
-- **AI/ML integration** in full-stack applications  
-- **Real-time collaboration tools** and **WebSockets**  
-- **DevOps practices** with CI/CD pipelines  
+- **LeetCode Problem Solving** – Daily practice to strengthen DSA and algorithmic thinking
+- **DevOps & CI/CD Pipelines** – Exploring Docker, Jenkins, and GitHub Actions for automation
+- **System Design & Scalable Architecture** – Designing high-availability and fault-tolerant systems
+- **Real-time Collaboration Tools** – Building with WebSockets and real-time data synchronization
 
 ---
 
