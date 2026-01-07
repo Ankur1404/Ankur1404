@@ -28,7 +28,6 @@ I'm a passionate developer currently pursuing my Bachelor's in Computer Science 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=flat&logo=ui&logoColor=white)
 
