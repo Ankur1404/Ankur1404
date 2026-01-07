@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ankur Kumar
 
-**Computer Science Student | Full-Stack Developer | Cloud & AI Enthusiast**
+**Computer Science Student | Full-Stack Developer**
 
 I'm a passionate developer currently pursuing my Bachelor's in Computer Science at K.K. Wagh Institute of Engineering Education and Research (2022–2026). I enjoy building scalable web applications, optimizing performance, and solving real-world problems with code.
 
