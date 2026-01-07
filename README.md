@@ -15,6 +15,18 @@ I'm a passionate developer currently pursuing my Bachelor's in Computer Science 
 📞 **Phone:** +91 9031138044  
 
 ---
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Metrics](https://metrics.lecoq.io/Ankur1404?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FKolkata)
+
+</div>
+
+---
+---
 
 ## 🛠️ Tech Stack
 
