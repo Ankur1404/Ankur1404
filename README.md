@@ -64,19 +64,7 @@ I'm a passionate developer currently pursuing my Bachelor's in Computer Science 
 
 ---
 
-## 🏆 Achievements & Certifications
 
-- **🏆 Top 10 (Local)** – NASA Space Apps Challenge 2025  
-  *Analyzed urban land use using Sentinel-2 imagery for automated development planning.*  
-- **🥇 1st Place** – IoT Project Competition 2025  
-  *Built an automated water tank system using solenoid valves and ultrasonic sensors.*  
-- **🥇 1st Place** – Mini Project Competition 2024 (BuildGuild)  
-- **🥉 3rd Place** – Database Project Competition 2024(BuildGuild)
- 
-
-- **📜 Certifications:**  
-  • Mastering Data Structures & Algorithms using C/C++ – Udemy (Abdul Bari)  
-  • AWS Academy Cloud Foundations – AWS Academy  
 
 ---
 
@@ -93,12 +81,7 @@ I'm a passionate developer currently pursuing my Bachelor's in Computer Science 
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ankur1404&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur1404&layout=compact&theme=radical&hide_border=true" />
-</div>
 
 
 
