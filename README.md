@@ -89,10 +89,17 @@ I'm a passionate developer currently pursuing my Bachelor's in Computer Science 
 
 ---
 
+---
+
 ## 📈 GitHub Stats
 
-![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankur1404&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur1404&layout=compact&theme=radical)
+<div align="center">
+  
+![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankur1404&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur1404&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
 
 ---
 
