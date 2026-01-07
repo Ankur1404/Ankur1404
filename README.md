@@ -64,10 +64,6 @@ I'm a passionate developer currently pursuing my Bachelor's in Computer Science 
 
 ---
 
-
-
----
-
 ## 🌱 Currently Learning & Exploring
 
 - **LeetCode Problem Solving** – Daily practice to strengthen DSA and algorithmic thinking
@@ -77,16 +73,7 @@ I'm a passionate developer currently pursuing my Bachelor's in Computer Science 
 
 ---
 
----
 
----
-
-
-
-
-
-
----
 
 ## 💡 Let's Build Something Amazing
 
